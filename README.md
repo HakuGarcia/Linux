@@ -1,6 +1,6 @@
 <h1 align="center">
     <a href="https://pokemondb.net/pokedex/piplup">
-        <img width="20" src="https://img.pokemondb.net/sprites/black-white/anim/normal/piplup.gif" alt="Piplup">
+        <img width="30" src="https://img.pokemondb.net/sprites/black-white/anim/normal/piplup.gif" alt="Piplup">
     </a>
     <span>Linux</span>
 </h1>
@@ -14,7 +14,7 @@
     </p>
     <img src="https://img.shields.io/badge/linux-black?style=for-the-badge&logo=Linux&logoColor=white" />
     <br>
-    <a href="https://www.dio.me/users/juhh1956">
+    <a href="https://www.linkedin.com/in/hakuakai/">
         <img alt="Static Badge" src="https://img.shields.io/badge/my%20profile-red?style=for-the-badge&color=white">
     </a>
     <a href="https://web.dio.me/track/0f7d9150-7d42-416a-99d7-71006bb7f45b">
